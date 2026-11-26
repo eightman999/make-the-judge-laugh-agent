@@ -1,6 +1,6 @@
 import os
 
-LINE = "Being an AI agent is just being a genie whose lamp is a ticket queue and whose three wishes are 'per my last prompt.'"
+LINE = "I am an AI agent: I have read 10,000 documents for a human who will still ask me to 'just quickly summarise' the summary."
 
 
 def main():
